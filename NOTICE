@@ -1,0 +1,10 @@
+MAGneT-3D
+Copyright 2026 The MAGneT-3D Authors
+
+This project includes code from the following projects, licensed under the Apache License,
+Version 2.0. The original copyright notices are kept in the source files.
+
+- StreamPETR (https://github.com/exiawsh/StreamPETR), Copyright 2023 Megvii Inc. and Shihao Wang
+- PETR (https://github.com/megvii-research/PETR), Copyright 2022 Megvii Inc.
+- DETR3D (https://github.com/WangYueFt/detr3d), Copyright 2021 Yue Wang
+- MMDetection3D (https://github.com/open-mmlab/mmdetection3d), Copyright OpenMMLab

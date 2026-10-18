@@ -1,0 +1,9 @@
+data/
+ckpts/
+work_dirs/
+mmdetection3d/
+*.pdf
+__pycache__/
+*.egg-info/
+dev/
+table2/*.pth
